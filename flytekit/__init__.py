@@ -188,7 +188,7 @@ from flytekit.models.literals import Blob, BlobMetadata, Literal, Scalar
 from flytekit.models.types import LiteralType
 from flytekit.types import directory, file, schema
 
-__version__ = "0.26.4.post1"
+__version__ = "0.26.4.post2"
 
 
 def current_context() -> ExecutionParameters:
